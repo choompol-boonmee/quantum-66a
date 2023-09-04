@@ -26,14 +26,20 @@
 - 4:39 Trapped Ion
 - 5:31 Superconducting
 - 7:25 Spin Qubit
+- 
 <https://youtu.be/N06hC1GL1ns>
 
 
-
+## "This Quantum Computer Will CHANGE Everything!" ft. Michio Kaku
+- 
 <https://youtu.be/6TIilk7nH_A>
+
+## Quantum Wave Function Visualization
 
 <https://youtu.be/KKr91v7yLcM>
 
+## Superconducting qubit, the tuning fork of a quantum computer
+- 0
 <https://youtu.be/qmeE8OCVtaY>
 
 <https://youtu.be/aV1wL5jsfRU>
