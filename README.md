@@ -1,5 +1,8 @@
 # quantum-66a
 
+## 4 สิงหา
+<https://youtu.be/igJVku0JyhI>
+
 ## IBM's New Quantum Computer SHOCKS The Entire Industry!
 - 4:43 By 2033
 - 6:00 Bloch Sphere
