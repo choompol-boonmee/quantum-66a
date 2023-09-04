@@ -1,6 +1,6 @@
 # quantum-66a
 
-## 4 สิงหา
+## 4 กันยา
 <https://youtu.be/igJVku0JyhI>
 
 ## IBM's New Quantum Computer SHOCKS The Entire Industry!
