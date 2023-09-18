@@ -1,5 +1,9 @@
 # quantum-66a
 
+## 18 กันยา
+Polarization (ขั้วของแสง คลื่นแม่เหล็กไฟฟ้า)
+<https://youtu.be/U8FanZu4X1I>
+
 ## 4 กันยา
 <https://youtu.be/igJVku0JyhI>
 
