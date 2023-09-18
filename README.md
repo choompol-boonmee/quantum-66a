@@ -4,6 +4,9 @@
 Polarization (ขั้วของแสง คลื่นแม่เหล็กไฟฟ้า)
 <https://youtu.be/U8FanZu4X1I>
 
+Entanglement
+<https://youtu.be/US7fEkBsy4A>
+
 ## 4 กันยา
 <https://youtu.be/igJVku0JyhI>
 
