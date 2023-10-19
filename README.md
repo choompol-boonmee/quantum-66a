@@ -1,5 +1,8 @@
 # quantum-66a
 
+Q2B23 Tokyo | Industry Case Study: Quantum Computing Impact | Nicole Barberis
+<https://youtu.be/P-AtK_VJFC4>
+
 ## 18 กันยา
 Polarization (ขั้วของแสง คลื่นแม่เหล็กไฟฟ้า)
 <https://youtu.be/U8FanZu4X1I>
