@@ -1,6 +1,11 @@
 # quantum-66a
 
+Quantum Teleportation of 1 Qubit - Quantum Circuit Diagram, Entanglement of Bell States
+
+<https://youtu.be/QuwAM374sFA>
+
 Q2B23 Tokyo | Industry Case Study: Quantum Computing Impact | Nicole Barberis
+
 <https://youtu.be/P-AtK_VJFC4>
 
 ## 18 กันยา
