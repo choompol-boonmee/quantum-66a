@@ -90,3 +90,5 @@ Entanglement
 <https://youtu.be/gpD5nKd07gM>
 
 <https://youtu.be/-a6UOyv0548>
+
+<https://medium.com/geekculture/understanding-superdense-coding-c10b42adecca>
