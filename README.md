@@ -69,3 +69,22 @@ Entanglement
 ## Doable
 <https://youtu.be/w6O7K7Ij2Rk>
 
+## SHORE ALGO
+
+<https://www.qutube.nl/quantum-algorithms/shors-algorithm>
+
+<https://www.youtube.com/watch?v=6qD9XElTpCE&ab_channel=Qiskit>
+
+<https://youtu.be/lvTqbM5Dq4Q>
+
+<https://youtu.be/FRZQ-efABeQ>
+
+## SUPER DENSE ALGO
+
+<https://en.wikipedia.org/wiki/Superdense_coding#:~:text=In%20quantum%20information%20theory%2C%20superdense,pre%2Dsharing%20an%20entangled%20resource.>
+
+<https://youtu.be/UrAZHBwIAFQ>
+
+<https://youtu.be/gpD5nKd07gM>
+
+<https://youtu.be/-a6UOyv0548>
