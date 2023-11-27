@@ -79,6 +79,8 @@ Entanglement
 
 <https://youtu.be/FRZQ-efABeQ>
 
+<https://youtu.be/EdJ7RoWcU48>
+
 ## SUPER DENSE ALGO
 
 <https://en.wikipedia.org/wiki/Superdense_coding#:~:text=In%20quantum%20information%20theory%2C%20superdense,pre%2Dsharing%20an%20entangled%20resource.>
