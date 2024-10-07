@@ -1,8 +1,12 @@
 # quantum-66a
 
-Quantum Teleportation of 1 Qubit - Quantum Circuit Diagram, Entanglement of Bell States
+Quantum Teleportation of 1 Qubit - Quantum Circuit Diagram, Entanglement of Bell States (explain)
 
 <https://youtu.be/QuwAM374sFA>
+
+Quantum Teleportation composer
+
+<https://youtu.be/6fixVgtt2wg>
 
 Q2B23 Tokyo | Industry Case Study: Quantum Computing Impact | Nicole Barberis
 
